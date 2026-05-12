@@ -1,6 +1,6 @@
 {
   "name": "Python 3 & Pytest",
-  "image": "://microsoft.com",
+  "image": "://mcr.microsoft.com",
   "customizations": {
     "vscode": {
       "extensions": [
