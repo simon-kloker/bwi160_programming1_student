@@ -1,0 +1,10 @@
+{
+  "name": "Python 3 & Pytest",
+  "image": "://microsoft.com",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python", "ms-python.vscode-pylint"]
+    }
+  },
+  "postCreateCommand": "pip install -r requirements.txt"
+}
